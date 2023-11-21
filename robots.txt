@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://Amokh2018.github.io/aliwebsite/sitemap.xml
+Sitemap: https://aliwebsite.github.io/sitemap.xml
