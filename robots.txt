@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://amokh2018.github.io/sitemap.xml
+Sitemap: https://Amokh2018.github.io//sitemap.xml
